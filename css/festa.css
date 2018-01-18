@@ -1,0 +1,56 @@
+.madrinhas{
+  text-align: center;
+  color: #8b814c;
+  padding: 60px;
+  clear:both;
+  background-color: #bbffff;
+  height: 1100px;
+ }
+.padrinhos{
+  text-align: center;
+  color: #8b814c;
+  padding: 60px;
+  clear:both;
+}
+.madrinhas h2,
+.padrinhos h2{
+  padding-top: 50px;
+  font-size: 40px;
+  font-style: italic;
+  font-family: 'Allura', cursive;
+}
+.titulo img{
+  width: 70px;
+  height: 55px;
+}
+.madrinhas p,
+.padrinhos p{
+  font-size: 20px;
+}
+.titulo{
+  padding-bottom: 30px;
+}
+footer{
+  clear: left;
+}
+.imagens-madrinhas,
+.imagens-padrinhos{
+  margin-left: 80px;
+}
+.padrinhos h2{
+  margin-bottom: 40px;
+}
+.imagens-madrinhas img,
+.imagens-padrinhos img{
+  width: 280px;
+  height: 260px;
+ }
+.img{
+  width: 280px;
+  float: left;
+  margin: 20px;
+  padding-bottom: 60px;
+}
+.img p{
+  padding: 10px;
+}
